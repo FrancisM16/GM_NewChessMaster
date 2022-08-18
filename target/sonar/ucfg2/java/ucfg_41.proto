@@ -1,0 +1,63 @@
+
++ChessGamePiece#canMove(LChessGameBoard;II)Zl
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaƒ ƒ("3*æ
+2l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java† †((ú
+÷
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java† †(;
+%5boolean"9ChessGamePiece#testMoveForKingSafety(LChessGameBoard;II)Z*
+ChessGamePiece*
+
+boardChessGameBoard*
+""*
+"""v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java† †(<
+""*¤	
+3l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java„ „(Š‡
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java„ „($
+
+%0void"5ChessGamePiece#updatePossibleMoves(LChessGameBoard;)V*
+ChessGamePiece*
+
+boardChessGameBoard2%updatePossibleMoves(LChessGameBoard;)¹
+¶
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java… …(
+%1java.util.ArrayList"__id*%*#
+ChessGamePiece"
+possibleMoves¢
+Ÿ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java…$ …(-
+%2java.lang.String"__concat*
+""*
+,µ
+²
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java…$ …(3
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""‚ÿ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java… …(5	
+%4int"0java.util.ArrayList#indexOf(Ljava/lang/Object;)I*
+
+%1java.util.ArrayList*
+
+%3java.lang.String2indexOf(Ljava/lang/Object;)*
+2
+1*é
+1l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaˆ ˆ("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaˆ ˆ(
+"":
+boardChessGameBoard:
+"":
+""B
+ChessGamePiece

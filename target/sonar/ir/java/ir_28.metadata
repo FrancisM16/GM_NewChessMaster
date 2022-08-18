@@ -1,0 +1,4 @@
+ChessGameEngine#determineActionFromSquareClick(Ljava/awt/event/MouseEvent;)V
+ChessGameEngine#selectedPieceIsValid()Z
+ChessGameEngine#checkGameConditions()V
+javax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;Ljava/lang/String;I)V

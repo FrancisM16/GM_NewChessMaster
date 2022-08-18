@@ -1,0 +1,120 @@
+
+6Knight#createImageByPieceType()Ljavax/swing/ImageIcon;b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javac c(+"5*Â
+2b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javak k(ÄÁ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javak k(
+%8java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+Knight2
+getClass()•’
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javak k(E
+%9java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%8java.lang.Class*
+chessImages/BlackKnight.gif2getResource(Ljava/lang/String;)œ™
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaj j( 
+%10javax.swing.ImageIcon"javax.swing.ImageIconÓ
+Ð
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaj l(
+%11"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
+
+%10javax.swing.ImageIcon*
+
+%9java.net.URL"„
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaj l(
+
+%10javax.swing.ImageIcon*§
+3b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javai i(!´±
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javai i(#	
+%6int"!ChessGamePiece#getColorOfPiece()I*
+
+Knight2getColorOfPiece()
+}
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javai' i(;	
+%7int"__id*
+""*
+2
+1*¾
+4b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaf f(ÄÁ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaf f(
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+Knight2
+getClass()•’
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaf f(E
+%3java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%2java.lang.Class*
+chessImages/WhiteKnight.gif2getResource(Ljava/lang/String;)›˜
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javae e( 
+%4javax.swing.ImageIcon"javax.swing.ImageIconÑ
+Î
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javae g(
+%5"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
+
+%4javax.swing.ImageIcon*
+
+%3java.net.URL"ƒ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javae g(
+
+%4javax.swing.ImageIcon*§
+5b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javad d(´±
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javad d(	
+%0int"!ChessGamePiece#getColorOfPiece()I*
+
+Knight2getColorOfPiece()
+}
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javad" d(6	
+%1int"__id*
+""*
+3
+4*Í
+1b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaq q(ÅÂ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaq q(
+%12java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+Knight2
+getClass()ž›
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javaq q(L
+%13java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%12java.lang.Class*&$
+"chessImages/default-Unassigned.gif2getResource(Ljava/lang/String;)œ™
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javap p( 
+%14javax.swing.ImageIcon"javax.swing.ImageIconÔ
+Ñ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javap r(
+%15"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
+
+%14javax.swing.ImageIcon*
+
+%13java.net.URL"„
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Knight.javap r(
+
+%14javax.swing.ImageIconB
+
+Knight

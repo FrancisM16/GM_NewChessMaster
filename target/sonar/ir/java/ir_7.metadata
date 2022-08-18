@@ -1,0 +1,2 @@
+ChessMenuBar#aboutHandler()V
+javax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V

@@ -1,0 +1,172 @@
+
++ChessGamePiece#isEnemy(LChessGameBoard;II)Zl
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java™ ™("14"15*œ
+13l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaŸ Ÿ(¡
+ž
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaŸ Ÿ(
+%2ChessGamePiece"__id*
+
+%3
+<nulltype>*
+11*Ç
+14l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaž ž(åâ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaž ž(%
+%0BoardSquare"'ChessGameBoard#getCell(II)LBoardSquare;*
+
+boardChessGameBoard*
+""*
+""2getCell(II)àÝ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaž ž(8
+%1ChessGamePiece".BoardSquare#getPieceOnSquare()LChessGamePiece;*
+
+%0BoardSquare2getPieceOnSquare()*
+13
+12*ê
+15l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java› ›("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java› ›(
+""*é
+1l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¶ ¶("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¶ ¶(
+""*é
+2l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java² ²("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java² ²(
+""*Ý
+3l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java± ±(ÓÐ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java± ±(-
+
+%14int"!ChessGamePiece#getColorOfPiece()I*
+
+
+enemyPieceChessGamePiece2getColorOfPiece()‹
+ˆ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java±1 ±(E
+
+%15int"__id*
+""*
+2
+1*é
+4l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¬ ¬("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¬ ¬(
+""*é
+5l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¨ ¨("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¨ ¨(
+""*Ý
+6l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java§ §(ÓÐ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java§ §(-
+
+%12int"!ChessGamePiece#getColorOfPiece()I*
+
+
+enemyPieceChessGamePiece2getColorOfPiece()‹
+ˆ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java§1 §(E
+
+%13int"__id*
+""*
+4
+5*Ñ
+7l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¦ ¦(ÇÄ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¦ ¦(#
+
+%10int"!ChessGamePiece#getColorOfPiece()I*
+ChessGamePiece2getColorOfPiece()‹
+ˆ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¦' ¦(;
+
+%11int"__id*
+""*
+3
+6*é
+8l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¤ ¤("v
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¤ ¤(
+""*Û
+9l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java£ £(ÒÏ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java£ £(+	
+%8int"!ChessGamePiece#getColorOfPiece()I*
+
+
+enemyPieceChessGamePiece2getColorOfPiece()Š
+‡
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java£/ £(H	
+%9int"__id*
+""*
+7
+8*Ð
+10l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¢ ¢(ÆÃ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¢ ¢(%	
+%6int"!ChessGamePiece#getColorOfPiece()I*
+ChessGamePiece2getColorOfPiece()Š
+‡
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java¢) ¢(B	
+%7int"__id*
+""*
+8
+9*«
+11l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java  (?­
+ª
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java  (?
+
+enemyPieceChessGamePiece"__id*
+
+%2ChessGamePiece*
+8
+10*ë
+12l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java   (åâ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java   (+
+%5BoardSquare"'ChessGameBoard#getCell(II)LBoardSquare;*
+
+boardChessGameBoard*
+""*
+""2getCell(II)àÝ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java   (>
+%4ChessGamePiece".BoardSquare#getPieceOnSquare()LChessGamePiece;*
+
+%5BoardSquare2getPieceOnSquare()¥
+¢
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.java   (>
+%2ChessGamePiece"__id*
+
+%4ChessGamePiece*
+11:
+boardChessGameBoard:
+"":
+""B
+ChessGamePiece

@@ -1,0 +1,122 @@
+
+Pawn#move(LChessGameBoard;II)Z`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java/ /("startingBlock*—
+2`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java; ;("j
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java; ;(
+""*∫
+3`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java5 5(Ÿ÷
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java5 5()
+%6BoardSquare"'ChessGameBoard#getCell(II)LBoardSquare;*
+
+boardChessGameBoard*
+""*
+""2getCell(II)∞≠
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java9 9(%	
+%7int"!ChessGamePiece#getColorOfPiece()I*
+Pawn2getColorOfPiece()xv
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java5@ 5(E
+%8Queen"Queen÷
+”
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java5< 9('
+%9""Queen#<init>(LChessGameBoard;III)V*
+
+%8Queen*
+
+boardChessGameBoard*
+""*
+""*
+	
+%7intÎË
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java5 9()
+%10void"/BoardSquare#setPieceOnSquare(LChessGamePiece;)V*
+
+%6BoardSquare*
+
+%8Queen2"setPieceOnSquare(LChessGamePiece;)*
+2*º
+startingBlock`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java/ /(A´
+®
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java. .(
+%11"
+__annotate*
+java.lang.Override*
+
+boardChessGameBoardï
+í
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java/( /(-
+boardChessGameBoard"__annotation*
+
+%11*
+8*ü
+5`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java4 4($∞≠
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java4 4(&	
+%4int"!ChessGamePiece#getColorOfPiece()I*
+Pawn2getColorOfPiece()}
+{
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java4* 4(>	
+%5int"__id*
+""*
+2
+3*€
+7`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java1 1(ìê
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java2 2(;
+%1java.util.ArrayList"BPawn#calculatePossibleMoves(LChessGameBoard;)Ljava/util/ArrayList;*
+Pawn*
+
+boardChessGameBoard2(calculatePossibleMoves(LChessGameBoard;)£
+†
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java2 2(;
+Pawn"
+possibleMoves"__id*
+
+%1java.util.ArrayList∞≠
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java3 3($	
+%2int"!ChessGamePiece#getColorOfPiece()I*
+Pawn2getColorOfPiece()}
+{
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java3( 3(<	
+%3int"__id*
+""*
+3
+5*¡
+8`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java0 0(—
+Œ
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java0 0(*
+%0boolean"(ChessGamePiece#move(LChessGameBoard;II)Z*
+""*
+
+boardChessGameBoard*
+""*
+""*
+7
+1*—
+1`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java= =("j
+`
+VD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Pawn.java= =(
+"":
+boardChessGameBoard:
+"":
+""B
+Pawn

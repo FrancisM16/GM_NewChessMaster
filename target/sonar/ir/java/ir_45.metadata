@@ -1,0 +1,2 @@
+ChessGamePiece#canMove(LChessGameBoard;II)Z
+ChessGamePiece#testMoveForKingSafety(LChessGameBoard;II)Z

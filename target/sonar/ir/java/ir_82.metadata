@@ -1,0 +1,2 @@
+BoardSquare#<init>(IILChessGamePiece;)V
+BoardSquare#updateImage()V

@@ -1,0 +1,2 @@
+ChessGameBoard#getCell(II)LBoardSquare;
+ChessGameBoard#validateCoordinates(II)Z

@@ -1,0 +1,104 @@
+
+'ChessGameEngine#playerHasLegalMoves(I)Zk
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaU U(&"10*€
+2k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaa a(&õ
+ò
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaa a(&
+	currPieceChessGamePiece"__id*
+""¬
+ø
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaa a(&
+	currPieceChessGamePiece"
+__arrayGet*
+
+piecesjava.util.ArrayList*
+""*
+4
+1*Á
+3k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javac c("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javac c(
+""*≤
+4k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javab b(¨
+©
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javab* b(/
+%4ChessGameBoard"__id**
+ChessGameEngine"
+boardàÖ
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javab b(1
+%5boolean"/ChessGamePiece#hasLegalMoves(LChessGameBoard;)Z*
+
+	currPieceChessGamePiece*
+
+%4ChessGameBoard2hasLegalMoves(LChessGameBoard;)*
+2
+3*Á
+6k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java_ _("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java_ _(
+""*Õ
+7k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java[ [(¨
+©
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java[ [(
+%2ChessGameBoard"__id**
+ChessGameEngine"
+boardÒÓ
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java[ [(.
+%3java.util.ArrayList"7ChessGameBoard#getAllBlackPieces()Ljava/util/ArrayList;*
+
+%2ChessGameBoard2getAllBlackPieces()≤
+Ø
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java[ [(.
+piecesjava.util.ArrayList"__id*
+
+%3java.util.ArrayList*
+2*Õ
+9k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaX X(¨
+©
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaX X(
+%0ChessGameBoard"__id**
+ChessGameEngine"
+boardÒÓ
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaX X(.
+%1java.util.ArrayList"7ChessGameBoard#getAllWhitePieces()Ljava/util/ArrayList;*
+
+%0ChessGameBoard2getAllWhitePieces()≤
+Ø
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaX X(.
+piecesjava.util.ArrayList"__id*
+
+%1java.util.ArrayList*
+2*ú
+10k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaV V()ù
+ö
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaV V()
+piecesjava.util.ArrayList"__id*
+""*	
+6
+7
+9*Á
+1k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaf f("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaf f(
+"":
+""B
+ChessGameEngine

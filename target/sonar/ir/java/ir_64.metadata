@@ -1,0 +1,3 @@
+Knight#calculateSouthMoves(LChessGameBoard;)Ljava/util/ArrayList;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#

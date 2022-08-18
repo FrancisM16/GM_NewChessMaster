@@ -1,0 +1,4 @@
+ChessGameBoard#clearCell(II)V
+ChessGameBoard#validateCoordinates(II)Z
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V

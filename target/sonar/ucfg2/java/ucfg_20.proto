@@ -1,0 +1,80 @@
+
+'ChessGameEngine#selectedPieceIsValid()Zk
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javam m(("9*ç
+2k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java} }("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java} }(
+""*†
+3k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java| |(³
+°
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java| |(
+%4ChessGamePiece"__id*%*#
+ChessGameEngine"
+currentPieceÉÆ
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java| |(/	
+%5int"!ChessGamePiece#getColorOfPiece()I*
+
+%4ChessGamePiece2getColorOfPiece()‰
+†
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java|3 |(G	
+%6int"__id*
+""*
+2
+1*ç
+4k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaw w("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaw w(
+""*ç
+5k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javau u("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javau u(
+""*†
+6k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javat t(³
+°
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javat t(
+%1ChessGamePiece"__id*%*#
+ChessGameEngine"
+currentPieceÉÆ
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javat t(/	
+%2int"!ChessGamePiece#getColorOfPiece()I*
+
+%1ChessGamePiece2getColorOfPiece()‰
+†
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javat3 t(G	
+%3int"__id*
+""*
+4
+5*ç
+8k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javap p("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javap p(
+""*±
+9k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javan n(³
+°
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javan n(
+%0ChessGamePiece"__id*%*#
+ChessGameEngine"
+currentPiece*	
+3
+6
+8*ç
+1k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java ("u
+k
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.java (
+""B
+ChessGameEngine

@@ -1,0 +1,109 @@
+
+!ChessGameEngine#isKingInCheck(Z)Zm
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaä ä( "2"4"5"1*≠
+2m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaî î(§
+°
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaî î(
+
+%6King"__id**
+ChessGameEngine"
+king1Æ
+´
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaî( î(-
+%7ChessGameBoard"__id**
+ChessGameEngine"
+boardÁ‰
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaî î(/
+%8boolean"!King#isChecked(LChessGameBoard;)Z*
+
+
+%6King*
+
+%7ChessGameBoard2isChecked(LChessGameBoard;)"w
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaî î(0
+""*≠
+4m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaè è(§
+°
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaè è(
+
+%3King"__id**
+ChessGameEngine"
+king2Æ
+´
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaè$ è()
+%4ChessGameBoard"__id**
+ChessGameEngine"
+boardÁ‰
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaè è(+
+%5boolean"!King#isChecked(LChessGameBoard;)Z*
+
+
+%3King*
+
+%4ChessGameBoard2isChecked(LChessGameBoard;)"w
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaè è(,
+""*≠
+5m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaç ç(§
+°
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaç ç(
+
+%0King"__id**
+ChessGameEngine"
+king1Æ
+´
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaç( ç(-
+%1ChessGameBoard"__id**
+ChessGameEngine"
+boardÁ‰
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaç ç(/
+%2boolean"!King#isChecked(LChessGameBoard;)Z*
+
+
+%0King*
+
+%1ChessGameBoard2isChecked(LChessGameBoard;)"w
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javaç ç(0
+""*∞
+1m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javañ ñ(§
+°
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javañ ñ(
+
+%9King"__id**
+ChessGameEngine"
+king2Ø
+¨
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javañ$ ñ()
+%10ChessGameBoard"__id**
+ChessGameEngine"
+boardÈÊ
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javañ ñ(+
+%11boolean"!King#isChecked(LChessGameBoard;)Z*
+
+
+%9King*
+
+%10ChessGameBoard2isChecked(LChessGameBoard;)"w
+m
+aD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameEngine.javañ ñ(,
+"":
+""B
+ChessGameEngine

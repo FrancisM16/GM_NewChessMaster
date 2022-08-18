@@ -1,0 +1,2 @@
+BoardSquare#setPieceOnSquare(LChessGamePiece;)V
+BoardSquare#updateImage()V

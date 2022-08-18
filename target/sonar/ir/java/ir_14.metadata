@@ -1,0 +1,3 @@
+Pawn#move(LChessGameBoard;II)Z
+Queen#instance-init#
+Queen#<init>(LChessGameBoard;III)V

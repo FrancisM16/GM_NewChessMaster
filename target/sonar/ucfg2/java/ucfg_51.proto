@@ -1,0 +1,61 @@
+
++ChessGamePiece#toString()Ljava/lang/String;l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaÞ Þ("1*¸
+1l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß ß(ÖÓ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß ß(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+ChessGamePiece2
+getClass()ÜÙ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß ß()
+%1java.lang.String",java.lang.Class#toString()Ljava/lang/String;*
+
+%0java.lang.Class2
+toString()èå
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß ß(8
+%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+%1java.lang.String*22substring(I)·
+´
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß ß(A
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ @ (µ
+²
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß ß(L
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""µ
+²
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß à(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, µ
+²
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß à( 
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""´
+±
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß à(&
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+)"ˆ
+l
+`D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGamePiece.javaß à('
+
+%7java.lang.StringB
+ChessGamePiece

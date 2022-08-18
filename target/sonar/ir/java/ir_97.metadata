@@ -1,0 +1,3 @@
+ChessGameBoard#resetBoard(Z)V
+BoardSquare#<init>(IILChessGamePiece;)V
+BoardSquare#instance-init#

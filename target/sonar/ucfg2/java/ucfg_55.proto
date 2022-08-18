@@ -1,0 +1,68 @@
+
++ChessGameLog#getLastLog()Ljava/lang/String;h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java9 9("3*–
+2h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java< <(°
+­
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java< <(
+%3javax.swing.JTextArea"__id**
+ChessGameLog"
+
+textAreaìé
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java< <(%
+%4java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%3javax.swing.JTextArea2	getText()"„
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java< <(&
+
+%4java.lang.String*ˆ
+3h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java:! :()°
+­
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java:! :()
+%0javax.swing.JTextArea"__id**
+ChessGameLog"
+
+textAreaìé
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java:! :(3
+%1java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%0javax.swing.JTextArea2	getText()îë
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java:! :(G	
+%2int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+%1java.lang.String*
+\n2lastIndexOf(Ljava/lang/String;)*
+2
+1*ÿ
+1h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java> >(°
+­
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java> >(
+%5javax.swing.JTextArea"__id**
+ChessGameLog"
+
+textAreaìé
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java> >(!
+%6java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%5javax.swing.JTextArea2	getText()æã
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java> >(E
+%7java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+%6java.lang.String*
+""2substring(I)"„
+h
+^D:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/ChessGameLog.java> >(F
+
+%7java.lang.StringB
+ChessGameLog

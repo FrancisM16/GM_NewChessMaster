@@ -1,0 +1,7 @@
+organization=francism16
+projectKey=FrancisM16_GM_RefactorChessMaster
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.31165
+dashboardUrl=https://sonarcloud.io/dashboard?id=FrancisM16_GM_RefactorChessMaster
+ceTaskId=AYKvVFzo1Z7WDlrOYUhr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYKvVFzo1Z7WDlrOYUhr

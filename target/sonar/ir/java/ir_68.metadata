@@ -1,0 +1,5 @@
+ChessMain#main([Ljava/lang/String;)V
+javax.swing.JFrame#<init>(Ljava/lang/String;)V
+ChessPanel#instance-init#
+javax.swing.JFrame#instance-init#
+ChessPanel#<init>()V

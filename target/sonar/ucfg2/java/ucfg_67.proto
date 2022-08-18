@@ -1,0 +1,120 @@
+
+6Bishop#createImageByPieceType()Ljavax/swing/ImageIcon;b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java7 7(+"5*Â
+2b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java? ?(ÄÁ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java? ?(
+%8java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+Bishop2
+getClass()•’
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java? ?(E
+%9java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%8java.lang.Class*
+chessImages/BlackBishop.gif2getResource(Ljava/lang/String;)œ™
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java> >( 
+%10javax.swing.ImageIcon"javax.swing.ImageIconÓ
+Ð
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java> @(
+%11"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
+
+%10javax.swing.ImageIcon*
+
+%9java.net.URL"„
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java> @(
+
+%10javax.swing.ImageIcon*§
+3b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java= =(!´±
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java= =(#	
+%6int"!ChessGamePiece#getColorOfPiece()I*
+
+Bishop2getColorOfPiece()
+}
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java=' =(;	
+%7int"__id*
+""*
+2
+1*¾
+4b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java: :(ÄÁ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java: :(
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+Bishop2
+getClass()•’
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java: :(E
+%3java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%2java.lang.Class*
+chessImages/WhiteBishop.gif2getResource(Ljava/lang/String;)›˜
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java9 9( 
+%4javax.swing.ImageIcon"javax.swing.ImageIconÑ
+Î
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java9 ;(
+%5"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
+
+%4javax.swing.ImageIcon*
+
+%3java.net.URL"ƒ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java9 ;(
+
+%4javax.swing.ImageIcon*§
+5b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java8 8(´±
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java8 8(	
+%0int"!ChessGamePiece#getColorOfPiece()I*
+
+Bishop2getColorOfPiece()
+}
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.java8" 8(6	
+%1int"__id*
+""*
+3
+4*Æ
+1b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.javaD D(ÅÂ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.javaD D(
+%12java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+Bishop2
+getClass()—”
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.javaD D(E
+%13java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%12java.lang.Class*
+chessImages/BlackBishop.gif2getResource(Ljava/lang/String;)œ™
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.javaC C( 
+%14javax.swing.ImageIcon"javax.swing.ImageIconÔ
+Ñ
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.javaC E(
+%15"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
+
+%14javax.swing.ImageIcon*
+
+%13java.net.URL"„
+b
+XD:/Universidad/GM_RefactorChessMaster/src/main/java/com/yourapp/Original.src/Bishop.javaC E(
+
+%14javax.swing.ImageIconB
+
+Bishop
